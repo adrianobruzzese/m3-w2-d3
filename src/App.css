@@ -1,3 +1,53 @@
+/* Stili per gli elementi della barra di navigazione */
+.icon {
+  color: white;
+  margin-right: 3vmin;
+}
+
+.text-link span {
+  text-transform: uppercase;
+  margin-right: 3vmin;
+  color: white; 
+}
+
+.social-icons svg {
+  margin-right: 2vmin;
+  color: white; 
+}
+
+.text-secondary {
+  color: #6c757d; 
+}
+
+.genre-dropdown {
+  background: #221f1f;
+  border: solid 1px;
+  margin-left: 1rem; 
+}
+
+.icon {
+  margin-left: 6vmin;
+  margin-right: 2vmin;
+  color: white; 
+}
+
+.icon-col {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 .App {
   text-align: center;
 }
