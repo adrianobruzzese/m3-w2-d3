@@ -1,9 +1,9 @@
 import React from "react";
 import { Container, Nav, Navbar, NavDropdown } from "react-bootstrap";
 import { NavLink } from "react-router-dom"; // Importa NavLink per il routing
-import netLogo from "../logo.png"; // Ricordati di inserire il logo
+import netLogo from "../media/logo.png"; // Ricordati di inserire il logo
 import NavActions from "./NavActions";
-import "./app.css"; 
+import "../App.css"; 
 
 function NetflixNavbar() {
   return (

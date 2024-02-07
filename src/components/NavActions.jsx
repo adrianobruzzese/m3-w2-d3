@@ -1,7 +1,7 @@
 import { Bell, PersonCircle, Search } from 'react-bootstrap-icons';
 import Nav from 'react-bootstrap/Nav';
 import { NavLink } from 'react-router-dom'; // Importazione per il routing
-import './app.css';
+import '../App.css';
 
 // Definizione del componente NavActions
 function NavActions() {

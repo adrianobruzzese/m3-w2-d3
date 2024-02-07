@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col, Dropdown, DropdownButton } from "react-bootstrap";
 import { Grid, List } from "react-bootstrap-icons";
 import NetflixRows from "./NetflixRows";
-import "./app.css"; 
+import "../App.css"; 
 
 const genres = [
   { name: "Harry Potter", query: "harry potter" },

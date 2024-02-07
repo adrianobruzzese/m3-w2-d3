@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col, Button } from "react-bootstrap";
 import { Facebook, Instagram, Twitter, Youtube } from "react-bootstrap-icons";
 // import { Link } from "react-router-dom";
-import "./app.css"; 
+import "../App.css"; 
 
 // Componente per le icone social
 const SocialIcons = () => (
